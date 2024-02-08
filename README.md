@@ -27,3 +27,7 @@ This project is a lightweight REST-based JSON mock server built using Node.js an
 - **POST /authors**: Create a new author.
 - **DELETE /authors/:id**: Delete author by ID.
 - Additional endpoints and functionalities can be added as needed.
+
+## Explaination Video
+YouTube:- https://youtu.be/GgMLl77IG68
+Google Drive:- https://drive.google.com/file/d/1anVZVKIlssk-DoBw1wN5-_Og3SI1FiVw/view?usp=sharing
