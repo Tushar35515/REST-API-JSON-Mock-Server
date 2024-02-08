@@ -11,9 +11,6 @@ This project is a lightweight REST-based JSON mock server built using Node.js an
 - Middleware for handling requests and responses, including JSON parsing, error handling, and request validation.
 - Easy setup and configuration.
 
-## Clone the repository:
-git clone https://github.com/Tushar35515/REST-API-JSON-Mock-Server.git
-
 ## Usage
 
 - Use HTTP methods (GET, POST, DELETE) to interact with the mock server endpoints.
