@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "title1",
+      "author": "CIQ",
+      "authorId": 0,
+      "views": 100,
+      "reviews": 31
+    },
+    {
+      "id": 1,
+      "title": "title2",
+      "author": "CommerceIQ",
+      "authorId": 1,
+      "views": 55,
+      "reviews": 30
+    },
+    {
+      "id": 2,
+      "title": "title2",
+      "author": "CommerceIQ",
+      "authorId": 1,
+      "views": 147,
+      "reviews": 30
+    },
+    {
+      "id": 3,
+      "title": "test1",
+      "author": "Tushar",
+      "authorId": 0,
+      "views": 100,
+      "reviews": 31
+    }
+  ],
+  "authors": [
+    {
+      "id": 0,
+      "first_name": "Commerce",
+      "last_name": "IQ",
+      "posts": 45
+    },
+    {
+      "id": 1,
+      "first_name": "Tushar",
+      "last_name": "Chaudhary",
+      "posts": 25
+    }
+  ]
+}
